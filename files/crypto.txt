@@ -1,0 +1,68 @@
+A line starting with '@' date
+A line starting with '<' begin of html
+A line starting with '>' end of html
+A line starting with '[' slide show timer and pictures
+All other lines ignored
+
+
+
+############################################################
+##                       SLIDE SHOW                       ##
+############################################################
+Left and right slide timers and pictures
+
+[5000] y.png, z.jpg, sw.jpg | [5000] y.png, z.jpg, sw.jpg
+
+
+
+############################################################
+##                        CHANGELOG                       ##
+############################################################
+
+@ November 14, 2023
+
+<
+en-US<br>
+-Artifact Filter: added and fixed Intangible type<br>
+-Punisher's Crypt: added Normal and Hard<br>
+-Special Arena: fixed bot going on cooldown<br>
+<br>
+pt-BR<br>
+-Filtro de artefato: adicionado e corrigido tipo Intangível<br>
+-Cripta do Justiceiro: adicionado Normal e Difícil<br>
+-Arena Especial: corrigido bot entrando em recarga<br>
+<br>
+de-DE<br>
+-Artefaktfilter: Immaterieller Typ hinzugefügt und behoben<br>
+- Krypta des Bestrafers: Normal und Schwer hinzugefügt<br>
+-Spezielle Arena: Die Abklingzeit des Bots wurde behoben<br>
+<br>
+fr-FR<br>
+-Filtre d'artefacts : ajout et correction du type Intangible<br>
+-Punisher's Crypt : ajout de Normal et Difficile<br>
+-Arène spéciale : correction du bot en cours de recharge)
+>
+
+<
+d
+e
+>
+
+@ December 01, 2023
+
+<
+f
+>
+
+<
+d
+
+x
+
+y
+>
+
+
+############################################################
+##                        CRYPTO                          ##
+############################################################
